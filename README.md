@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Capstone
 Executive Summary
 
