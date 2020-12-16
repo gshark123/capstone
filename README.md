@@ -21,6 +21,8 @@ I plan to utilize excel and Tableau to present my project. The flow of the prese
 
 6. Cost of pharmaceuticals as a barrier to care 
 
+
+
 Audience 
 
 Insurers, most notably government entities like Medicare and State Medicaid institutions. The audience could also be entities looking to enter the drug distributor network given all of the tailwinds coming from increasing drug spend. Take for example, Amazon, which announced on 11.17.2020 it would offer prescription discounts and prescription home delivery.
