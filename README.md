@@ -21,7 +21,7 @@ I plan to utilize excel and Tableau to present my project. The flow of the prese
 
 6. Cost of pharmaceuticals as a barrier to care 
 
-![capstone WIP](Drug Dist Channel.png)
+![drugs](png/Drug_Dist_Channel.png)
 
 Audience 
 
