@@ -7,7 +7,12 @@ I am concerned that continued growth in pharmaceutical spend will weigh heavily 
 
 Data Questions
 
-Looking back and going forward, will drug distributors’ revenue growth and growth in overall spending on pharmaceuticals outpace economic growth? What are the drivers of increasing spend on drugs? An aging population, which is a population where chronic diseases are most prevalent.  
+Firstly, I wanted to know is now the best time to invest in the Drug Distribution Channel. A little foreshadowing here but note that Amazon announced its entrance into the home delivery pharmacy market with a drug discount program back in November. 
+
+Secondly, I wanted to know if increasing life expectancy in the US will lead to greater prevalence of chronic disease? 
+
+Lastly, is now the worst of times for elderly patients consuming prescription drugs?
+
 
 MVP
 
