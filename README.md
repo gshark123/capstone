@@ -15,6 +15,8 @@ Lastly, is now the worst of times for elderly patients consuming prescription dr
 
 You can see that Drug Wholesalers and Pharmacies are the predominant intermediaries between the drug manufacturer and the patient. So for the purposes of this presentation, we will focus on Drug Wholesalers, Pharmacies, and the patient. 
 
+![drugs](png/Drug_Dist_Channel.png)
+
 MVP
 
 I plan to utilize excel and Tableau to present my project. The flow of the presentation is as follows:
@@ -27,7 +29,6 @@ I plan to utilize excel and Tableau to present my project. The flow of the prese
 
 6. Cost of pharmaceuticals as a barrier to care 
 
-![drugs](png/Drug_Dist_Channel.png)
 
 Audience 
 
