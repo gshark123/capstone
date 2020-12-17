@@ -13,6 +13,7 @@ Secondly, I wanted to know if increasing life expectancy in the US will lead to 
 
 Lastly, is now the worst of times for elderly patients consuming prescription drugs?
 
+You can see that Drug Wholesalers and Pharmacies are the predominant intermediaries between the drug manufacturer and the patient. So for the purposes of this presentation, we will focus on Drug Wholesalers, Pharmacies, and the patient. 
 
 MVP
 
