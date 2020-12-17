@@ -1,4 +1,4 @@
-# Capstone
+# Drug Distribution Channel Project
 Executive Summary
 
 My motivation for the Drug Distribution Channel project is to determine the flow of drugs to patients from the manufacturer, and then delve into the dynamics of drug distributors’ (i.e., wholesalers and pharmacies) revenue growth vs. consumer spending growth. I want to show that drug distributors’ revenue growth and growth in overall spending on pharmaceuticals will outpace economic growth in the future. I also want to show the drivers of increasing pharmaceutical spend, which mostly emanates from an aging population; a population where chronic diseases are most prevalent.  
